@@ -4,4 +4,4 @@ server:
 logging:
   level:
     com:
-      hazelcast: TRACE
+      hazelcast: INFO
